@@ -1,4 +1,4 @@
- # Here is a new update by kentryansilao
+# Here is a new update by kentryansilao
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
